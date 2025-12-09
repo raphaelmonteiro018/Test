@@ -32,3 +32,5 @@ Automatiser entièrement le reporting pour :
 - /flow_power_automate : documentation et captures d’écran du workflow
 - /excel_automation : programmation des macros VBA
 - /data_example : test réel avec données anonymisées
+
+## Prochaine étape : Branche Power Automate Desktop
