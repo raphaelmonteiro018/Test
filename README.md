@@ -14,8 +14,9 @@ Extractions programmées et envoyées par mail du lundi au vendredi à heure fix
 <img width="1539" height="854" alt="image" src="https://github.com/user-attachments/assets/a9514195-5522-4d42-9f89-848ce4a2648f" />
 
 ## Résultat final
-En quelques minutes les extractions précédentes sont supprimées et remplacées par les nouvelles pretes pour import.
+En quelques minutes les extractions précédentes sont supprimées et remplacées par les nouvelles pretes pour import via VBA.
 
-- Voici un exemple d'arborescence de rangement des extractions pour une région :
+- Voici l'arborescence de dossiers utilisée pour le rangement des extractions sur une région :
 <img width="707" height="556" alt="image" src="https://github.com/user-attachments/assets/745197fa-81a7-441a-9ac8-a0b98066805f" />
 
+## Prochaine étape : VBA
