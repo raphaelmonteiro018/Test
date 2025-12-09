@@ -18,5 +18,3 @@ En quelques minutes les extractions précédentes sont supprimées et remplacée
 
 - Voici l'arborescence de dossiers utilisée pour le rangement des extractions sur une région :
 <img width="707" height="556" alt="image" src="https://github.com/user-attachments/assets/745197fa-81a7-441a-9ac8-a0b98066805f" />
-
-## Prochaine étape : Branche CODE VBA
