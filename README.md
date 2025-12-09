@@ -9,7 +9,7 @@ Automatiser entièrement le processus de suivi du CA quotidien afin de :
 2. Collecte automatique des extractions, traitement et rangement des fichiers via Power Automate
 3. Importation des plages de données via VBA
 5. Actualisation des données et contrôles de cohérence (vérifications manuelles)
-6. Mail automatisé du CA quotidien pour deux régions.
+6. Mail automatisé du CA quotidien pour deux régions
 
 ## 🛠 Outils techniques
 - Power Automate
