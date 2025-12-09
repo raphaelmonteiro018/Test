@@ -32,5 +32,3 @@ Automatiser entièrement le reporting pour :
 ## 📁 Contenu du projet
 - Etape 1 : ERP et Power Automate Desktop
 - Etape 2 : VBA
-
-## Prochaine étape : Branche ERP et Power Automate Desktop
