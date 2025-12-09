@@ -2,7 +2,7 @@
 Extractions programmées et envoyées par mail du lundi au vendredi à heure fixe
 
 ## Suppression des anciennes extractions et remplacement par les nouvelles
-- Flux principal dans lequel sont rangés les sous-flux :
+- Flux principal à partir duquel sont appelés les sous-flux :
 <img width="1349" height="310" alt="image" src="https://github.com/user-attachments/assets/78c38971-2401-474a-baf7-fa0bc56a35f8" />
 
 
