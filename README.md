@@ -2,7 +2,7 @@
 Dans le cadre de mon alternance en contrôle de gestion chez Polyexpert j'ai automatisé le reporting quotidien du chiffre d'affaires pour deux régions.
 
 ## 🎯 Objectifs
-Automatiser entièrement le processus de suivi du CA quotidien afin de :
+Automatiser entièrement le reporting pour :
 - Éliminer les tâches répétitives et manuelles
 - Fiabiliser la consolidation des données
 - Augmenter la productivité du pôle 
