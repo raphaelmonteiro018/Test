@@ -19,4 +19,5 @@ Le workflow s'exécute en arrière-plan, en quelques minutes les extractions son
 - Voici l'arborescence de dossiers utilisée pour le rangement des extractions sur une région :
 <img width="707" height="556" alt="image" src="https://github.com/user-attachments/assets/745197fa-81a7-441a-9ac8-a0b98066805f" />
 
+
 L'appel VBA permet ensuite d'aller piocher les plages désirées dans chaque fichier exporté pour les coller dans les plages spécifiées du reporting.
